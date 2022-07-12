@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Body() {
-   const BodyCSS = {
+   const bodyCSS = {
        color: "green",
        border: "1px solid black",
        marginBottom: "15px"
